@@ -3,7 +3,7 @@ p {
     color: blue;
 }
 
-h2{
+p.first-of-type{
     color: red;
     background-color: cornflowerblue;
 }
