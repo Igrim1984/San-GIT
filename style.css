@@ -1,9 +1,11 @@
 p {
     background-color: yellow;
     color: blue;
+    padding: 20px;
 }
 
 p.first-of-type{
     color: red;
     background-color: cornflowerblue;
+    border: 4px double yellow; 
 }
